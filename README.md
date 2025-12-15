@@ -1,2 +1,2 @@
-# my_dotfiles
+# Custom Dotfiles
 Arch Hyprland Configs/Customizations
